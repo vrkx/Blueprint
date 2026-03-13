@@ -8,3 +8,11 @@
 
 
 </div>
+
+
+<br>
+
+
+Portions of the materials used are trademarks and/or copyrighted works of Epic Games, Inc. All rights reserved by Epic. This material is not official and is not endorsed by Epic.
+
+This project follows [Epic Games Fan Content Policy](https://legal.epicgames.com/en-US/epicgames/fan-art-policy)
